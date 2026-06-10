@@ -19,7 +19,7 @@ from telegram.ext import (
 #   SOZLAMALAR
 # ═══════════════════════════════════════════
 BOT_TOKEN      = "8615927460:AAEtFxnz1K5OyqCdcqgVXxu6IxLwT7XWpBg"
-PICWISH_KEY    = "wxxlcfu0efn3ixhfd"
+PICWISH_KEY    = os.environ.get("wxlgx7v6nie1bw96f")
 ADMIN_ID       = 8330377593
 KARTA_RAQAM    = "9860080151682814"
 KARTA_EGASI    = "Axadov A"
